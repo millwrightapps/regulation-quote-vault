@@ -116,7 +116,7 @@ The launcher installs everything else the first time you open it: yt-dlp, whispe
    - **Mac:** double-click `Open Quote Review.command`.
    - **Windows:** double-click `Open Quote Review.bat`.
 
-   Then go to **http://127.0.0.1:8765**. The first launch takes a few minutes while it installs everything. Leave that window open while you work.
+   Then open the address it shows, usually **http://127.0.0.1:8765** (it picks the next free port if that one's busy). The first launch takes a few minutes while it installs everything. Leave that window open while you work.
 
 The review page figures out which repo to save to from your clone, so there's nothing to configure. Your fork comes with the approved quotes already in this vault. Approvals you make go to your fork, and you can send them back here as a pull request.
 
