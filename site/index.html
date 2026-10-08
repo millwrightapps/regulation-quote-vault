@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Regulation Quote Vault</title>
+<meta name="description" content="Verified, timestamped quotes from the Regulation Podcast and F**kface. Pick your own selection and download it as JSON.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <p class="eyebrow">Fan-made · Not affiliated with the show</p>
+    <h1>Regulation Quote Vault</h1>
+    <p class="lede">Verified, timestamped quotes from the Regulation Podcast and F**kface. Every line here was checked by someone who listened, and credited to whoever said it. Pick the ones you want and download them for your own project.</p>
+    <p class="credit">All quotes belong to <strong>Andrew Panton, Gavin Free, Geoff Ramsey, Eric Baudour and Nick Schwartz</strong>. Please credit them and link back to the episode wherever you use one.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="filters" aria-label="Filter quotes">
+    <label class="search"><span>Search</span><input id="search" type="search" placeholder="Words, episode title, or tag" autocomplete="off"></label>
+    <div class="group"><span class="label">Speaker</span><div id="speakers" class="chips"></div></div>
+    <div class="group"><span class="label">Show</span><div id="shows" class="chips"></div></div>
+    <div class="group"><span class="label">Tags</span><div id="tags" class="chips"></div></div>
+  </section>
+
+  <div class="bar" role="region" aria-label="Your selection">
+    <p id="summary" aria-live="polite">Loading quotes…</p>
+    <div class="actions">
+      <button id="select-shown" class="quiet" type="button">Select all shown</button>
+      <button id="clear" class="quiet" type="button">Clear selection</button>
+      <button id="download" type="button" disabled>Download JSON</button>
+    </div>
+  </div>
+
+  <ul id="quotes" class="quotes"></ul>
+  <p id="empty" class="empty" hidden>No quotes match those filters.</p>
+</main>
+
+<footer class="wrap foot">
+  <p>The download uses the same format as the full feed (<a href="catalog.json">catalog.json</a>), with just your picks, so anything that reads one reads the other. Host it wherever you like.</p>
+  <p>Want to add quotes? The tools to find, review and publish them are in the <a id="repo" href="https://github.com/">GitHub repo</a>. Code is MIT licensed. Quotes belong to the show.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
