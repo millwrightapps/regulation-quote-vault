@@ -2,7 +2,7 @@
 
 A community collection of **verified, timestamped quotes** from the Regulation Podcast and F\*\*kface, plus the free tools to grow it.
 
-**Just want quotes?** Browse them at **[millwrightapps.github.io/regulation-quote-vault](https://millwrightapps.github.io/regulation-quote-vault/)**, tick the ones you like, and download your selection as a JSON file for your own project.
+**Just want quotes?** Browse them at **[millwrightapps.com/regulation-quote-vault](https://millwrightapps.com/regulation-quote-vault/)**, tick the ones you like, and download your selection as a JSON file for your own project.
 
 **Want to add quotes, or run your own collection?** Everything you need is in this repo. It transcribes episodes on your own computer, suggests lines worth keeping, and gives you a simple review page where you listen, credit the right person, and publish.
 
