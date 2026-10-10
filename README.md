@@ -1,6 +1,6 @@
 # Regulation Quote Vault
 
-A community collection of **verified, timestamped quotes** from the Regulation Podcast and F\*\*kface, plus the free tools to grow it.
+A community collection of verified, timestamped quotes from the Regulation Podcast and F\*\*kface, plus the free tools to grow it.
 
 **Just want quotes?** Browse them at **[millwrightapps.com/regulation-quote-vault](https://millwrightapps.com/regulation-quote-vault/)**, tick the ones you like, and download your selection as a JSON file for your own project.
 
@@ -8,7 +8,7 @@ A community collection of **verified, timestamped quotes** from the Regulation P
 
 ## All credit to the crew
 
-Every quote in here belongs to **Andrew Panton, Gavin Free, Geoff Ramsey, Eric Baudour and Nick Schwartz**. It's their show, their jokes and their stories. This project just helps fans find their favourite moments and point back to them.
+Every quote in here belongs to **Andrew Panton, Gavin Free, Geoff Ramsey, Eric Baudour and Nick Schwartz**. It's their show, their jokes and their stories. This project just helps fans find their favorite moments and point back to them.
 
 This is a fan project. It isn't affiliated with or endorsed by the Regulation Podcast or anyone on it. If you use quotes from here:
 
@@ -25,7 +25,6 @@ A few ground rules, which the review page also reminds you of:
 
 - **Respect Geoff's sobriety.** Geoff has been open about his sobriety, and he sometimes talks about his drinking past on the show. The vault doesn't publish quotes that tie him to drinking, even when he's the one telling the story. If a quote touches on it, remove it rather than crediting someone else. The validation catches obvious words, but it can't understand context, so this one is on the reviewer.
 - **Never guess who's talking.** Credit a speaker only after you've listened and you're sure. If you can't tell, leave it.
-- **Leave out anything that would be unkind out of context.** A bit that lands in the room can read differently as a one-liner on someone's phone.
 
 ## Using the quotes
 
@@ -78,7 +77,7 @@ YouTube playlist ──► one episode's audio ──► Whisper on your compute
 
 ### Why it has to run on your own computer
 
-It would be lovely if GitHub could transcribe new episodes automatically, but **YouTube blocks GitHub's servers** (and most cloud servers), asking them to prove they aren't bots. Downloads only work reliably from a normal home connection, so transcription happens on your Mac or PC when you click the button. If YouTube gets suspicious of your connection too, collection waits 30 minutes and then carries on.
+It would be lovely if GitHub could transcribe new episodes automatically, but YouTube blocks GitHub's servers (and most cloud servers), asking them to prove they aren't bots. Downloads only work reliably from a normal home connection, so transcription happens on your Mac or PC when you click the button. If YouTube gets suspicious of your connection too, collection waits 30 minutes and then carries on.
 
 ### Sharing the work
 
